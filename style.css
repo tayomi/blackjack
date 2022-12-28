@@ -1,0 +1,27 @@
+body {
+  background-color: green;
+  font-size: 20px;
+  text-align: center;
+  font-family: monospace;
+  color: white;
+}
+
+h1 {
+  font-size: 40px;
+  color: yellow;
+  margin-top: 50px;
+}
+
+button {
+  font-size: 20px;
+  padding: 7px;
+  width: 200px;
+  color: green;
+  background-color: yellow;
+  font-weight: bolder;
+  margin-top: 5px;
+}
+
+p {
+  line-height: 30px;
+}
